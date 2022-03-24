@@ -1,0 +1,28 @@
+table {
+    width:100%;
+}
+table, th, td {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+th {
+    background-color: coral;
+    color: white;
+    text-align: center;
+}
+label {
+    color: coral;
+    text-align: right;
+}
+input   {
+    text-align: left;
+}
+td   {
+    color: cornflowerblue;
+}
+.tieude {
+    text-align: right;
+}
+
