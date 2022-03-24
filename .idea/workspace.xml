@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="" />
+    <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/thuc hanh tao basic table/bang nang cao.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuc hanh tao basic table/bang nang cao.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +59,7 @@
       <updated>1648017780023</updated>
       <workItem from="1648017781094" duration="8626000" />
       <workItem from="1648087666038" duration="53000" />
-      <workItem from="1648096223025" duration="18739000" />
+      <workItem from="1648096223025" duration="19732000" />
     </task>
     <servers />
   </component>
