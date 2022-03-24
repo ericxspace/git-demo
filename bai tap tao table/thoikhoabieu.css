@@ -13,23 +13,22 @@ h1  {
     width: 450px;
 }
 table, th, td {
-    border: 1px solid;
     border-collapse: collapse;
-    border-color: black;
+    border: 1px solid black;
     padding: 3px;
 }
 .trai {
     text-align: left;
     color: blue;
-    border: 0px;
+    border: 0;
 }
 
 .phai {
     text-align: right;
     color: blue;
-    border: 0px;
+    border: 0;
 }
 .noboder {
-    border: 0px;
+    border: 0;
     width: 500px;
 }
