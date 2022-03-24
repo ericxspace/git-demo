@@ -1,0 +1,35 @@
+th  {
+    text-align: center;
+    background-color: yellow;
+
+}
+.mau {
+    background-color: orange;
+    text-align: center;
+}
+h1  {
+    text-align: center;
+    color: blue;
+    width: 450px;
+}
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color: black;
+    padding: 3px;
+}
+.trai {
+    text-align: left;
+    color: blue;
+    border: 0px;
+}
+
+.phai {
+    text-align: right;
+    color: blue;
+    border: 0px;
+}
+.noboder {
+    border: 0px;
+    width: 500px;
+}
