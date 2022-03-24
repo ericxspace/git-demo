@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bai tap tao giao dien form dang ky nguoi dung/register form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai tap tao form advance/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai tap tao form advance/hobby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form survey khach hang/surrvey.css" beforeDir="false" afterPath="$PROJECT_DIR$/form survey khach hang/surrvey.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form survey khach hang/survey.html" beforeDir="false" afterPath="$PROJECT_DIR$/form survey khach hang/survey.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -60,7 +58,7 @@
       <updated>1648017780023</updated>
       <workItem from="1648017781094" duration="8626000" />
       <workItem from="1648087666038" duration="53000" />
-      <workItem from="1648096223025" duration="16872000" />
+      <workItem from="1648096223025" duration="17800000" />
     </task>
     <servers />
   </component>
