@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form-Survey</title>
+</head>
+<body>
+<h1 class="tieu de">Market Research Survey</h1>
+<h5>Please take a few moments to complete this satisfaction survey</h5>
+<hr>
+<form method="post">
+<table>
+    <tr>
+        <td class="tieude" colspan="2"><h5>What is your age range?</h5></td>
+    </tr>
+    <tr>
+        <td colspan="2">
+                <label><select name="agerange">
+                    <option value="18-24">18-24</option>
+                    <option value="25-34">25-34</option>
+                    <option value="34-50">35-50</option>
+                    <option value="50+">50+</option>
+                </select></label>
+        </td>
+    </tr><tr>
+        <td class="tieude" colspan="2"><h5>What is your yearly income range?</h5></td>
+    </tr>
+    <tr>
+        <td colspan="2">
+                <label><select name="agerange">
+                    <option value="$0-$25000">$0-$25000</option>
+                    <option value="$25001-$50000">$25001-$50000</option>
+                    <option value="$50001-$100000">$50001-$100000</option>
+                    <option value="$100000+">$100000+</option>
+                </select></label>
+        </td>
+    </tr>
+<tr>
+    <td class="tieude" colspan="2"><h5>Gender identity</h5></td>
+</tr>
+    <tr><td><label><input name="gender" value="Male" type="radio" checked/>Male</label></td></tr>
+    <tr><td><label><input name="gender" value="Female" type="radio" checked/>Female</label></td></tr>
+    <tr><td><label><input name="gender" value="Nonbinary" type="radio" checked/>Nonbinary</label></td></tr>
+    <tr><td><label><input name="gender" value="Other" type="radio" checked/>Other</label></td></tr>
+    <tr><td><label><input type="text"></label></td></tr>
+    <td class="tieude" colspan="2"><h5>Which of the following products have your purchased in the last 2 months. Please check all that apply.</h5></td>
+    <tr><td><label><input name="Product" type="checkbox"/> Product 1</label></td></tr>
+    <tr><td><label><input name="Product" type="checkbox"/> Product 2</label></td></tr>
+    <tr><td><label><input name="Product" type="checkbox"/> Product 2</label></td></tr>
+    <tr><td class="tieude" colspan="2"><h5>How Often would you use our product?</h5></td></tr>
+    <tr><td><label><input name="time" value="Daily" type="radio" checked/>Daily</label></td></tr>
+    <tr><td><label><input name="time" value="Weekly" type="radio" checked/>Weekly</label></td></tr>
+    <tr><td><label><input name="time" value="Monthly" type="radio" checked/>Monthly</label></td></tr>
+    <tr><td class="tieude" colspan="2"><h5>What whould you pay for the new product?</h5></td></tr>
+    <tr>
+        <td>$ <label>
+            <input type="text">
+        </label>&nbsp;.&nbsp;<label>
+            <input size="1" type="text">
+        </label></td>
+    </tr>
+    <tr>
+        <td>&emsp;Dollar &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Cents</td>
+    </tr>
+    <tr>
+        <td class="tieude" colspan="2"><h5>What features would you like to see in the new product.</h5></td>
+    </tr>
+</table>
+    <label>
+        <textarea cols="50" rows="5"> </textarea>
+    </label>
+</form>
+</body>
+</html>
