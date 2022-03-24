@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register Form</title>
+    <link rel="stylesheet" href="form dang ky.css">
+</head>
+<body>
+<form method="post">
+    <table>
+        <tr>
+            <th colspan="3">ĐĂNG KÝ HỌC VIÊN</th>
+        </tr>
+        <tr>
+            <td class="tieude">Họ và Tên</td>
+            <td colspan="2"><label><input type="text" name="name"></label></td>
+        </tr>
+        <tr>
+            <td class="tieude">Ngày Sinh</td>
+            <td colspan="2"><label><input type="text" name="DOB"></label></td>
+        </tr>
+        <tr>
+            <td class="tieude">Giới Tính</td>
+            <td><label><input type="radio" name="gioi tinh" value="Nam"></label>Nam</td>
+            <td><label><input type="radio" name="gioi tinh" value="Nu"></label>Nữ</td>
+        </tr>
+        <tr>
+            <td class="tieude">Địa Chỉ</td>
+            <td colspan="2"><label><textarea cols="40" rows="4"> </textarea></label></td>
+        </tr>
+        <tr>
+            <td class="tieude">Lớp</td>
+            <td colspan="2"><label><select name="city">
+                <option value="toan">Toán</option>
+                <option value="ly">Lý</option>
+                <option value="hoa">Hoá</option>
+                <option value="sinh">Sinh</option>
+                <option value="su">Sử</option>
+            </select></label></td>
+        </tr>
+        <tr>
+            <td class="tieude">Email</td>
+            <td colspan="2"><label><input type="text" name="email"></label></td>
+        </tr>
+        <tr>
+            <td class="tieude">Điện Thoại</td>
+            <td colspan="2"><label><input type="text"></label></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><label><input type="submit" value="Đăng Ký"></label></td>
+            <td><label><input type="reset" value="Nhập Lại"></label></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
