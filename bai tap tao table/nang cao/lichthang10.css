@@ -1,0 +1,40 @@
+table {
+    text-align: center;
+    width: 60%;
+}
+th  {
+    padding: 20px
+}
+td  {
+    border: 1px solid;
+    width: 20px;
+    height: 20px;
+}
+.tieude {
+    color: blue;
+    text-align: center;
+    width: 60%;
+}
+.do {
+    color: red;
+}
+.xanh {
+    color: blue;
+}
+.cam {
+    background-color: orange;
+    color: white;
+}
+.do1 {
+    background-color: red;
+    color: white;
+}
+.xanh1{
+    background-color: blue;
+    color: white;
+}
+sub {
+    color: black;
+    font-size: small;
+}
+
