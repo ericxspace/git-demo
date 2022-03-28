@@ -1,10 +1,10 @@
 
 function convert() {
-    let a = document.getElementById("amount").value
-    let b = document.getElementById("From").value
-    let c = document.getElementById("To").value
+    let amount = document.getElementById("amount").value
+    let from = document.getElementById("From").value
+    let to = document.getElementById("To").value
 
-    let result = (a*c)/b
+    let result = (amount*to)/from
 
     document.getElementById("result").innerHTML=result
 }
