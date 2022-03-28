@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/25-3/[thuc hanh] nhung javascript/bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-3/[thuc hanh] nhung javascript/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25-3/[thuc hanh] nhung javascript/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-03/[thuc hanh]/khaibaosudungbien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-03/[thuc hanh]/khaibaosudungbien.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25-3/[thuc hanh] nhung javascript/bai3.js" beforeDir="false" afterPath="$PROJECT_DIR$/25-3/[thuc hanh] nhung javascript/bai3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,6 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="26m9E3q1t6jW0X9DVca6dpGKTQA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,6 +54,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="khaibaosudungbien.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gitdemo/28-03/[thuc hanh]/khaibaosudungbien.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.khaibaosudungbien.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +76,9 @@
       <workItem from="1648087666038" duration="53000" />
       <workItem from="1648096223025" duration="21331000" />
       <workItem from="1648127358228" duration="5018000" />
-      <workItem from="1648169859223" duration="9502000" />
+      <workItem from="1648169859223" duration="11195000" />
+      <workItem from="1648259507702" duration="1783000" />
+      <workItem from="1648434047382" duration="4838000" />
     </task>
     <servers />
   </component>
