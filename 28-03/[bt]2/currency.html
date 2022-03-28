@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Currency exchange</title>
+
+</head>
+<body>
+<table>
+    <tr>
+        <th>Amount</th>
+        <th>From Currency</th>
+        <th>To Currency</th>
+    </tr>
+    <tr>
+        <td>
+            <label>
+                <input type="text" id="amount">
+            </label>
+        </td>
+        <td>
+            <label>
+                <select id="From">
+                    <option value="23000">VND</option>
+                    <option value="1">USD</option>
+                </select>
+            </label>
+        </td>
+        <td>
+            <label>
+                <select id="To">
+                    <option value="1">USD</option>
+                    <option value="23000">VND</option>
+                </select>
+            </label>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button onclick="convert()">convert</button>
+        </td>
+    </tr>
+    <tr>
+        <td><p id="result">Ket Qua</p></td>
+    </tr>
+</table>
+</body>
+<script src="currency.js"></script>
+</html>
