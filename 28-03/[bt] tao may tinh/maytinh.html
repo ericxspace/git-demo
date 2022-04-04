@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="maytinh.css">
+</head>
+<body>
+<form name="maytinh">
+    <table>
+        <tr>
+            <td colspan="4">
+                <label>
+                    <input type="text" id="manhinh" name="hienthi" disabled>
+                </label>
+            </td>
+        </tr>
+        <tr>
+            <td><input type="button" class="so" value="1" onclick="clickButton(1)"></td>
+            <td><input type="button" class="so" value="2" onclick="clickButton(2)"></td>
+            <td><input type="button" class="so" value="3" onclick="clickButton(3)"></td>
+            <td><input type="button" id="cong" value="+" onclick="clickButton('+')"></td>
+        </tr>
+        <tr>
+            <td><input type="button" class="so" value="4" onclick="clickButton(4)"></td>
+            <td><input type="button" class="so" value="5" onclick="clickButton(5)"></td>
+            <td><input type="button" class="so" value="6" onclick="clickButton(6)"></td>
+            <td><input type="button" id="tru" value="-" onclick="clickButton()"></td>
+        </tr>
+        <tr>
+            <td><input type="button" class="so" value="7"></td>
+            <td><input type="button" class="so" value="8"></td>
+            <td><input type="button" class="so" value="9"></td>
+            <td><input type="button" id="nhan" value="x"></td>
+        </tr>
+        <tr>
+            <td><input type="button" id="xoa" name="clear" value="C" onclick="clear()"></td>
+            <td><input type="button" class="so" value="0"></td>
+            <td><input type="button" id="bang" value="=" onclick="cal()"></td>
+            <td><input type="button" id="chia" value="/"></td>
+        </tr>
+    </table>
+</form>
+</body>
+<script src="maytinh.js"></script>
+</html>

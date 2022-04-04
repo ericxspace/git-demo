@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/28-03/[bt]1/bai 3+4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-03/[bt]1/bai 3+4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-03/[bt]1/bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28-03/[bt]1/bai2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-03/[bt] tao may tinh/maytinh.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-03/[bt] tao may tinh/maytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28-03/[bt] tao may tinh/maytinh.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -80,7 +79,8 @@
       <workItem from="1648169859223" duration="11195000" />
       <workItem from="1648259507702" duration="1783000" />
       <workItem from="1648434047382" duration="16012000" />
-      <workItem from="1648689717978" duration="5706000" />
+      <workItem from="1648689717978" duration="12699000" />
+      <workItem from="1649034873554" duration="319000" />
     </task>
     <servers />
   </component>
