@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] Tinh chi so can nang co the/BMI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] Tinh chi so can nang co the/BMI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] tinh so ngay trong thang/month_calculate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] tinh so ngay trong thang/month_calculate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -79,7 +80,7 @@
       <workItem from="1648259507702" duration="1783000" />
       <workItem from="1648434047382" duration="16012000" />
       <workItem from="1648689717978" duration="12699000" />
-      <workItem from="1649034873554" duration="7338000" />
+      <workItem from="1649034873554" duration="9407000" />
     </task>
     <servers />
   </component>
