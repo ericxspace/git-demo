@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] tinh so ngay trong thang/month_calculate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] tinh so ngay trong thang/month_calculate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] Puzzle/puzzle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-04/Bai_tap/[bt] Puzzle/puzzle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-04/bai tap /[bt] Do you love me /dylm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-04/bai tap /[bt] Do you love me /dylm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -80,7 +83,7 @@
       <workItem from="1648259507702" duration="1783000" />
       <workItem from="1648434047382" duration="16012000" />
       <workItem from="1648689717978" duration="12699000" />
-      <workItem from="1649034873554" duration="9407000" />
+      <workItem from="1649034873554" duration="13421000" />
     </task>
     <servers />
   </component>
