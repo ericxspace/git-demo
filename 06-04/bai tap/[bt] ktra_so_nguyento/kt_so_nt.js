@@ -1,17 +1,23 @@
+function check(number) {
 
-function check() {
-    let number = prompt("add number");
     if (number < 2) {
-        alert(number +" Không phải là số nguyên tố");
-    } else {
-        for (i = 2; i < number; i++) {
-            console.log(i)
-            if (number % i == 0) {
-                alert(number +" Không phải là số nguyên tố");
-                return;
-            }
-        }
-        alert(number + " Là số nguyên tốt")
+        return false;
     }
+    for (let i = 2; i < number; i++) {
+        if (number % i == 0) {
+            return false
+        }
+    }
+    return true
+
 }
-check();
+
+let count = 0
+let i = 2;
+while (count < 10000) {
+    if (check(i) === true) {
+        console.log(i)
+        count++
+    }
+    i++;
+}
