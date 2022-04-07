@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] feet to meter/feet_to_meter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] feet to meter/feet_to_meter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-04/bai tap/[bt] ktra_so_nguyento/kt_so_nt.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] ktra_so_nguyento/kt_so_nt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-04/bai tap/[bt] ktra_so_nguyento/kt_so_nt.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] ktra_so_nguyento/kt_so_nt.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1648434047382" duration="16012000" />
       <workItem from="1648689717978" duration="12699000" />
       <workItem from="1649034873554" duration="19323000" />
-      <workItem from="1649208939770" duration="9147000" />
+      <workItem from="1649208939770" duration="13126000" />
     </task>
     <servers />
   </component>
