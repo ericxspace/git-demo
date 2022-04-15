@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tu dien</title>
+</head>
+<body>
+<h1>Nhap tu can dich</h1>
+<table>
+    <input type="text" id="input">
+    <button type="button" onclick="dich()">Dich</button>
+</table>
+</body>
+<script>
+
+    function dich() {
+        let arr1 = ["dog","cat","apple","watermelon"];
+        let arr2 = ["chó","mèo","quả táo","quả dưa hấu"];
+        let a = document.getElementById("input").value;
+        let b = -1
+        for (let i = 0; i < arr1.length; i++) {
+            if (arr1[i]===a) {
+             console.log(arr2[i]);
+             b = i
+             break;
+            }
+        }
+        if (b==-1)  {
+            alert("khong tim thay tu can dich")
+        } else {alert(arr2[b])}
+    }
+</script>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 1</title>
+</head>
+<body>
+
+</body>
+<script>
+<!-- method 1-->
+    function organise(){
+        let myColor = ["Red", "Green", "White", "Black"];
+        for (let i = 0; i < myColor.length; i++) {
+            document.write(myColor[i] + ",")
+        }
+    }
+organise();
+// method 2
+let myColor = ["Red", "Green", "White", "Black"]
+let str = myColor.toString()
+console.log(str);
+
+//method 3
+let abc = myColor.join(",")
+console.log(abc);
+</script>
+</html>

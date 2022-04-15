@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tìm số nhỏ nhất</title>
+</head>
+<body>
+
+</body>
+<script>
+    let a = prompt("so thu nhat");
+    let b = prompt("so thu hai");
+    let c = prompt("so thu ba");
+    function minelement(array) {
+        let min =  array[0];
+        for (let i = 1; i <= array.length; ++i) {
+            if (min > array[i]) {
+                min = array[i];
+            }
+        }
+        console.log("min= ",min);
+    }
+    let arr1 = [a,b,c]
+    minelement(arr1);
+
+</script>
+</html>

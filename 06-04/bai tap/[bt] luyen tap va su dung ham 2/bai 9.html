@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kiem tra ky tu xuat hien trong mang</title>
+</head>
+<body>
+
+</body>
+<script>
+    //input
+    let arr=prompt("nhap mang bat ky");
+    arr.split(' ')
+    // let value = prompt("nhap so ky tu trong mang")
+    let a = prompt("nhap mot so bat ky")
+    let count = 0
+    //nhap ky tu mang
+    //
+    // for (let j = 0; j < arr.length; j++) {
+    //     arr[j]=prompt('nhap phan tu thu '+j)
+    // }
+
+    // process
+    for (let i = 0; i < arr.length; i++) {
+        if (a == arr[i]) {
+            count++
+        }
+    }
+    // phải chạy hết vòng lặp mới bắt đầu xét đến hàm count nếu không sẽ hiển thị sai
+    if(count > 0){
+        console.log(count)
+    } else {
+        alert("-1")
+    }
+
+</script>
+</html>

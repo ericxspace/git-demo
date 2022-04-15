@@ -1,10 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Bai 3</title>
 </head>
 <body>
-$END$
+<button onclick="number(so1,so2)">ket qua</button>
 </body>
+<script>
+    let so1 = prompt("nhap so a")
+    let so2 = prompt("nhap so b")
+    function number(so1, so2){
+        if (so1>so2) {
+            alert("so 1 lon hon so 2")
+        } else {
+            let so3 = so1*1 + so2*1
+            alert(so3)
+        }
+    }
+
+</script>
 </html>

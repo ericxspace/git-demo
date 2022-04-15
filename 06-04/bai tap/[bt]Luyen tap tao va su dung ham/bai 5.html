@@ -1,10 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Bai 5</title>
 </head>
 <body>
-$END$
+<label>
+</label>
 </body>
+<script>
+    let arr1=["polaris", "aldebaran", "deneb", "vega", "altair", "dubhe","regulus"];
+    let arr2=["ursa minor", "tarurus", "cygnus", "lyra","aquila", "ursa major","leo"];
+    let input = prompt()
+    let index = true
+    function search(input) {
+        for (let i = 0; i < arr1.length; i++) {
+            if (input === arr1[i]) {
+                alert("Ngôi sao: "+arr1[i]+" -Thuộc chòm sao: "+arr2[i]);
+                index = false;
+                break
+            }
+        }
+        if (index === true) {
+            alert("Không tìm thấy chòm sao tương ứng");
+        } else {index= true}
+    }
+    search(input)
+</script>
 </html>
