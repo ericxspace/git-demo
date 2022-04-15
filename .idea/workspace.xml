@@ -2,36 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec25ac11-2de9-4d0e-b348-006ebbce506d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-04/bai tap/[bt] luyen tap va su dung ham 2/bai 9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-04/bai tap/ProductManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-04/bai tap/[bt]_quanlyhanghoa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] bang cuu chuong/bangcuuchuong.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] kiem tra tu doi xung/KtraTuDoiXung.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] kiem tra tu doi xung/ktratudoixung.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] làm game/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] làm game/image/hinhnen.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] làm game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] su dung cac ham co san cua mang/bai 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] su dung cac ham co san cua mang/bai 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] su dung cac ham co san cua mang/bai 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt] tu dien/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt]Quan ly san pham su dung ham/quanlyhanghoa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAI TAP/[bt]Quan ly san pham su dung ham/quanlyhanghoa.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CASE STUDY/bay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CASE STUDY/cotduoi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CASE STUDY/cottren.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CASE STUDY/hinhnen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 5.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai 5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/06-04/bai tap/[bt]Luyen tap tao va su dung ham/bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE STUDY/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CASE STUDY/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CASE STUDY/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/CASE STUDY/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -59,7 +36,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BAI TAP/[bt] làm game/game.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CASE STUDY/main.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -126,7 +103,7 @@
       <workItem from="1649731071456" duration="1797000" />
       <workItem from="1649745587205" duration="2000" />
       <workItem from="1649746634638" duration="13468000" />
-      <workItem from="1649832693925" duration="26452000" />
+      <workItem from="1649832693925" duration="34967000" />
     </task>
     <servers />
   </component>
